@@ -1,0 +1,14 @@
+body {
+  background-color: lavender;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkslateblue;
+}
+
+img {
+  width: 200px;
+  border-radius: 12px;
+}
